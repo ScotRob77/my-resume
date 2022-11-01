@@ -42,6 +42,14 @@
     background-color: #c7c094
 }
 
+.ui-menu-color-interests {
+    background-color: #c0b34e
+}
+
+.ui-menu-color-github {
+    background-color: #b4a427
+}
+
 /*------------------------Special Paddings/margins/text */
 
 h1,
@@ -363,6 +371,8 @@ button[type="Submit"] {
     color: #d6ce94;
     background-color: #308ef3;
 }
+
+/*------------------------Map */
 
 div#map {
     min-height: 360px;
